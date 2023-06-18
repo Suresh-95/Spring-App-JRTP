@@ -5,7 +5,7 @@ import java.util.Base64.Decoder;
 import java.util.Base64.Encoder;
 
 public class EncodeDecodeUtils {
-	
+	String s="suresh rajbhar";
 	
 	public String encode(String text) {
 		Encoder encoder = Base64.getEncoder();
